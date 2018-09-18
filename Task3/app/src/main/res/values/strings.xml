@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task 3</string>
+    <string name="name">Рябичев Алексей БПИ175</string>
+    <string name="write_anything">Write anything</string>
+    <string name="activity_1">Activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="here_what_you_typed">Here what you typed</string>
+    <string name="if_you_see_this_text_you_hadn_t_typed_anything">If you see this text, you hadn\'t typed anything</string>
+</resources>
