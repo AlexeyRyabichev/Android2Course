@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Task 16</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_score">Enter score</string>
+    <string name="name">Рябичев Алексей БПИ175</string>
+    <string name="click_me">Click me!</string>
+    <string name="about">About</string>
+</resources>
